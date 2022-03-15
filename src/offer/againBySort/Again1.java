@@ -21,6 +21,7 @@ public class Again1 {
         return false;
     }
 
+    //左下角开始比较不会产生岔路，小于就向上走，大于就向右走
     public static boolean find2(int[][] arry,int x){
         int row = arry.length -1; //数组的行
         int col = 0; //数组的列
