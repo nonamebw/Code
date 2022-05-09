@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31242b7c-adcd-4c09-9e0b-aa15f696115f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/code2205/Main0506_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code2205/Main0506_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code2205/Main0506_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/again/Again43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code2205/Main0508_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/algorithm/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/algorithm/sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/leetcode/again/Again7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/leetcode/again/Again7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/sort/QuickSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyCollections.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tool/MyCollections.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithm/sort/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,7 +36,7 @@
       <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithm/sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-832">
+            <state relative-caret-position="880">
               <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
             </state>
           </provider>
@@ -60,7 +45,7 @@
       <file leaf-file-name="Main0506_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/code2205/Main0506_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
+            <state relative-caret-position="440">
               <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
@@ -69,17 +54,29 @@
       <file leaf-file-name="Main0506_2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/code2205/Main0506_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
+            <state relative-caret-position="242">
               <caret line="11" selection-end-line="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main0506_3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main0506_3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/code2205/Main0506_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="34" selection-start-line="34" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="770">
+              <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main0508_1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/code2205/Main0508_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-349">
+              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,7 +87,7 @@
       <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Collections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="2288">
               <caret line="139" column="57" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
               <folding>
                 <element signature="e#5644#5645#0" expanded="true" />
@@ -103,8 +100,8 @@
       <file leaf-file-name="Again43.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/again/Again43.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+            <state relative-caret-position="770">
+              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/array/Merge.java" />
         <option value="$PROJECT_DIR$/src/leetcode/array/MaxSubArray.java" />
         <option value="$PROJECT_DIR$/src/leetcode/array/MajorityElement.java" />
         <option value="$PROJECT_DIR$/src/leetcode/array/ContainsDuplicate.java" />
@@ -203,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/code2205/Main0506_1.java" />
         <option value="$PROJECT_DIR$/src/code2205/Main0506_2.java" />
         <option value="$PROJECT_DIR$/src/code2205/Main0506_3.java" />
+        <option value="$PROJECT_DIR$/src/code2205/Main0508_1.java" />
       </list>
     </option>
   </component>
@@ -231,8 +228,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,7 +252,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -299,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.Main0508_1">
     <configuration name="Again1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.again.Again1" />
       <module name="code" />
@@ -307,17 +304,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Again1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.againBySort.Again1" />
-      <module name="code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="offer.againBySort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,6 +337,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithm.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main0508_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code2205.Main0508_1" />
+      <module name="code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code2205.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,19 +405,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Again1" />
       <item itemvalue="Application.Again2" />
       <item itemvalue="Application.Again1 (1)" />
       <item itemvalue="Application.Again7" />
       <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.Main0508_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main0508_1" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Again7" />
         <item itemvalue="Application.Again1 (1)" />
         <item itemvalue="Application.Again2" />
-        <item itemvalue="Application.Again1" />
       </list>
     </recent_temporary>
   </component>
@@ -641,12 +638,14 @@
       <workItem from="1650755505106" duration="6968000" />
       <workItem from="1650844461548" duration="3842000" />
       <workItem from="1650933004701" duration="661000" />
-      <workItem from="1651847062152" duration="3723000" />
+      <workItem from="1651847062152" duration="3762000" />
+      <workItem from="1651973744979" duration="3215000" />
+      <workItem from="1652052497806" duration="3405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="680749000" />
+    <option name="totallyTimeSpent" value="687408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -662,27 +661,27 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892665" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3548387" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2844365" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.010752688" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.45698926" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23462783" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.45617172" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24271844" />
       <window_info anchor="right" id="BPMNPalette" order="9" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32616487" />
       <window_info anchor="right" id="SciView" order="10" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.2844365" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32616487" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -702,18 +701,35 @@
           </properties>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code2205/Main0508_1.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code2205/Main0508_1.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code2205/Main0508_1.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code2205/Main0508_1.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="24" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/Checkerboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/array/ContainsDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1017,8 +1033,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/again/Again43.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        <state relative-caret-position="770">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1027,35 +1043,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-832">
+        <state relative-caret-position="880">
           <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/code2205/Main0506_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
+        <state relative-caret-position="440">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/code2205/Main0506_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
+        <state relative-caret-position="242">
           <caret line="11" selection-end-line="31" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="2288">
           <caret line="139" column="57" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
           <folding>
             <element signature="e#5644#5645#0" expanded="true" />
@@ -1066,8 +1076,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/code2205/Main0506_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="34" selection-start-line="34" selection-end-line="42" selection-end-column="9" />
+        <state relative-caret-position="770">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code2205/Main0508_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-349">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
